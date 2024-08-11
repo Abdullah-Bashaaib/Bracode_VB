@@ -1,0 +1,3 @@
+D:\Projects\Bracode\Bracode\bin\Debug\Bracode.exe.config
+D:\Projects\Bracode\Bracode\obj\Debug\Bracode.exe
+D:\Projects\Bracode\Bracode\obj\Debug\Bracode.pdb
